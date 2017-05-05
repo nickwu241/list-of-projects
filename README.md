@@ -1,16 +1,16 @@
 # **List Of Projects**
-A list of my personal projects and Github links.
+A list of my personal projects and their Github links.
 Organized into [projects](#projects) and [games](#games) sorted chronologically.
 
 ## Projects
-### 2017
+#### 2017
 **[Course Scrapper UBC]** - Scrape UBC Cousre Information to provide utilities such as notifying users of free spots in full courses and outputing all possible course schedules given a list of courses to take. 
 TAGS: Python (BeautifulSoup, requests, lxml), Twilio API, Firebase
 
 **[FoodShake]** - An Android Application to solve “Where should we eat?” situations by randomly selecting a nearby restaurant on phone shake.
 TAGS: Android/Java (okhtpp, retrofit), Yelp API, Google Maps API
 
-### 2016
+#### 2016
 **[Internet Connected Baby Monitor]** - An IoT baby monitor powered by Raspberry Pi and Arduino.
 TAGS: Python, C, HTML, CSS, Javascript, Node.js, Weave, Raspberry Pi, Arduino
 
@@ -27,17 +27,17 @@ TAGS: Java, Yelp
 TAGS: SystemVerilog
 
 ## Games
-### 2017
+#### 2017
 **[Cabin Escape]** -  A 3D first person escape the room puzzle game created in Unity.
 
 **[Don't Burn Your Friends]** - A 2D point-and-click adventure game created in Unity.
 
-### 2016
+#### 2016
 **[Happy Claws]** - A virtual claw machine game created in Unity.
 
 **[Blackjack]** - Implemented in Java (JavaFX).
 
-### 2015
+#### 2015
 **Tic Tac Toe** - Implemented in SystemVerilog.
 
 **Simon Game** - Implemented in C and emulate hardware using DAQ Library.
