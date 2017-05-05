@@ -1,6 +1,5 @@
-# **LIST OF PROJECTS**
+# **List Of Projects**
 A list of my personal projects and Github links.
-
 Organized into [projects](#projects) and [games](#games) sorted chronologically.
 
 ## Projects
@@ -13,7 +12,7 @@ TAGS: Android/Java (okhtpp, retrofit), Yelp API, Google Maps API
 
 ### 2016
 **[Internet Connected Baby Monitor]** - An IoT baby monitor powered by Raspberry Pi and Arduino.
-TAGS: Python, C, HTML, CSS, Javascript, Node.js, Weave, Raspberry Pi, Arduin
+TAGS: Python, C, HTML, CSS, Javascript, Node.js, Weave, Raspberry Pi, Arduino
 
 **Arduino-Based Autonomous Robot** - An autonomous robot that explores the world, follow black lines with the option of being controled by a mobile device.
 TAGS: Android/Java, C, Arduino
@@ -42,6 +41,11 @@ TAGS: SystemVerilog
 **Tic Tac Toe** - Implemented in SystemVerilog.
 
 **Simon Game** - Implemented in C and emulate hardware using DAQ Library.
+
+
+
+## Thanks for visiting!
+If you have any questions, you can reach me at nickwu@alumni.ubc.ca.
 
 [//]: #
 [Cabin Escape]:<https://github.com/gbvivian/CabinEscape>
