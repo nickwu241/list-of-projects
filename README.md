@@ -1,49 +1,44 @@
 # **LIST OF PROJECTS**
 A list of my personal projects and Github links.
-Organized into [Projects](##projects) and [Games](##games) sorted chronologically.
+
+Organized into [projects](#projects) and [games](#games) sorted chronologically.
 
 ## Projects
-#### 2017
+### 2017
 **[Course Scrapper UBC]** - Scrape UBC Cousre Information to provide utilities such as notifying users of free spots in full courses and outputing all possible course schedules given a list of courses to take. 
-
 TAGS: Python (BeautifulSoup, requests, lxml), Twilio API, Firebase
 
 **[FoodShake]** - An Android Application to solve “Where should we eat?” situations by randomly selecting a nearby restaurant on phone shake.
-
 TAGS: Android/Java (okhtpp, retrofit), Yelp API, Google Maps API
-#### 2016
-**[Internet Connected Baby Monitor]** - An IoT baby monitor powered by Raspberry Pi and Arduino.
 
-TAGS: Python, C, HTML, CSS, Javascript, Node.js, Weave, Raspberry Pi, Arduino
+### 2016
+**[Internet Connected Baby Monitor]** - An IoT baby monitor powered by Raspberry Pi and Arduino.
+TAGS: Python, C, HTML, CSS, Javascript, Node.js, Weave, Raspberry Pi, Arduin
 
 **Arduino-Based Autonomous Robot** - An autonomous robot that explores the world, follow black lines with the option of being controled by a mobile device.
-
 TAGS: Android/Java, C, Arduino
 
 **Morse Code with Arduino** - A device that outputs input messages into morse code.
-
 TAGS: C, Arduino
 
 **Restaurant Database** - A Java application that stores samples of Yelp's Academic Datasheet in JSON and returns data given a query.
-
 TAGS: Java, Yelp
 
 **RISC Machine** - A simple RISC machine with arithmetic, memory instructions and branching.
-
 TAGS: SystemVerilog
 
 ## Games
-#### 2017
+### 2017
 **[Cabin Escape]** -  A 3D first person escape the room puzzle game created in Unity.
 
 **[Don't Burn Your Friends]** - A 2D point-and-click adventure game created in Unity.
 
-#### 2016
+### 2016
 **[Happy Claws]** - A virtual claw machine game created in Unity.
 
 **[Blackjack]** - Implemented in Java (JavaFX).
 
-#### 2015
+### 2015
 **Tic Tac Toe** - Implemented in SystemVerilog.
 
 **Simon Game** - Implemented in C and emulate hardware using DAQ Library.
