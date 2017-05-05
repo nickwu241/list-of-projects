@@ -4,7 +4,7 @@ Organized into [projects](#projects) and [games](#games) sorted chronologically.
 
 ## Projects
 #### 2017
-**[Course Scrapper UBC]** - Scrape UBC Cousre Information to provide utilities such as notifying users of free spots in full courses and outputing all possible course schedules given a list of courses to take. 
+**[Course Scrapper UBC]** - Scrape UBC Cousres information to provide utilities such as notifying users of free spots in full courses and outputing all possible course schedules given a list of courses to take. 
 TAGS: Python (BeautifulSoup, requests, lxml), Twilio API, Firebase
 
 **[FoodShake]** - An Android Application to solve “Where should we eat?” situations by randomly selecting a nearby restaurant on phone shake.
@@ -14,7 +14,7 @@ TAGS: Android/Java (okhtpp, retrofit), Yelp API, Google Maps API
 **[Internet Connected Baby Monitor]** - An IoT baby monitor powered by Raspberry Pi and Arduino.
 TAGS: Python, C, HTML, CSS, Javascript, Node.js, Weave, Raspberry Pi, Arduino
 
-**Arduino-Based Autonomous Robot** - An autonomous robot that explores the world, follow black lines with the option of being controled by a mobile device.
+**Arduino-Based Autonomous Robot** - An autonomous robot that explores the world and follow black lines that can also be controlled by a mobile device.
 TAGS: Android/Java, C, Arduino
 
 **Morse Code with Arduino** - A device that outputs input messages into morse code.
