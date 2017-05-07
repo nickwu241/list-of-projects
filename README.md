@@ -10,6 +10,9 @@ TAGS: Python (BeautifulSoup, requests, lxml), Twilio API, Firebase
 **[FoodShake]** - An Android Application to solve “Where should we eat?” situations by randomly selecting a nearby restaurant on phone shake.
 TAGS: Android/Java (okhttp, retrofit), Yelp API, Google Maps API
 
+**Desktop Launcher** - A toy turret that can rotate, take photos and shoot projectiles for techonolgy enthusiasts. Optionally controlled through the Desktop Launcher mobile application.
+TAGS: C, Android/Java, SystemVerilog, FPGA
+
 #### 2016
 **[Internet Connected Baby Monitor]** - An IoT baby monitor powered by Raspberry Pi and Arduino.
 TAGS: Python, C, HTML, CSS, Javascript, Node.js, Weave, Raspberry Pi, Arduino
@@ -51,6 +54,7 @@ If you have any questions, you can reach me at nickwu@alumni.ubc.ca.
 [Cabin Escape]:<https://github.com/gbvivian/CabinEscape>
 [Course Scrapper UBC]:<https://github.com/nickwu241/CourseScrapperUBC>
 [FoodShake]:<https://github.com/nickwu241/FoodShake>
+[Desktop Launcher]:<>
 [Don't Burn Your Friends]:<https://github.com/nickwu241/htn2016-game>
 [Internet Connected Baby Monitor]:<https://github.com/nickwu241/ICBM-main>
 [Arduino-Based Autonomous Robot]:<>
