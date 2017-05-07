@@ -8,7 +8,7 @@ Organized into [projects](#projects) and [games](#games) sorted chronologically.
 TAGS: Python (BeautifulSoup, requests, lxml), Twilio API, Firebase
 
 **[FoodShake]** - An Android Application to solve “Where should we eat?” situations by randomly selecting a nearby restaurant on phone shake.
-TAGS: Android/Java (okhtpp, retrofit), Yelp API, Google Maps API
+TAGS: Android/Java (okhttp, retrofit), Yelp API, Google Maps API
 
 #### 2016
 **[Internet Connected Baby Monitor]** - An IoT baby monitor powered by Raspberry Pi and Arduino.
