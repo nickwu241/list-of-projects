@@ -14,6 +14,9 @@ TAGS: Android/Java (okhttp, retrofit), Yelp API, Google Maps API
 TAGS: C, Android/Java, SystemVerilog, FPGA
 
 #### 2016
+**[UBC Snowbots]** - An autonomous robot that navigates through an obstacle course for the Intelligent Ground Vehicle Competition.
+TAGS: C, C++, Python, ROS
+
 **[Internet Connected Baby Monitor]** - An IoT baby monitor powered by Raspberry Pi and Arduino.
 TAGS: Python, C, HTML, CSS, Javascript, Node.js, Weave, Raspberry Pi, Arduino
 
@@ -55,6 +58,7 @@ If you have any questions, you can reach me at nickwu@alumni.ubc.ca.
 [Course Scrapper UBC]:<https://github.com/nickwu241/CourseScrapperUBC>
 [FoodShake]:<https://github.com/nickwu241/FoodShake>
 [Desktop Launcher]:<>
+[UBC Snowbots]:<https://github.com/UBC-Snowbots/Snowflake>
 [Don't Burn Your Friends]:<https://github.com/nickwu241/htn2016-game>
 [Internet Connected Baby Monitor]:<https://github.com/nickwu241/ICBM-main>
 [Arduino-Based Autonomous Robot]:<>
