@@ -34,6 +34,8 @@ TAGS: SystemVerilog
 
 ## Games
 #### 2017
+**[Pong]** - Displayed via HTML5's Canvas and implemented in Javascript.
+
 **[Cabin Escape]** - 3D first person escape the room puzzle game created in Unity.
 
 **[Don't Burn Your Friends]** - 2D point-and-click adventure game created in Unity.
@@ -41,7 +43,7 @@ TAGS: SystemVerilog
 #### 2016
 **[Happy Claws]** - Virtual claw machine game created in Unity.
 
-**[Blackjack]** - Implemented in Java (JavaFX).
+**[Blackjack]** - Implemented in Java using JavaFX for GUI.
 
 #### 2015
 **Tic Tac Toe** - Implemented in SystemVerilog.
@@ -54,6 +56,7 @@ TAGS: SystemVerilog
 If you have any questions, you can reach me at nickwu@alumni.ubc.ca.
 
 [//]: #
+[Pong]:<https://github.com/nickwu241/pong-js>
 [Cabin Escape]:<https://github.com/gbvivian/CabinEscape>
 [Course Scrapper UBC]:<https://github.com/nickwu241/CourseScrapperUBC>
 [FoodShake]:<https://github.com/nickwu241/FoodShake>
