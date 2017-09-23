@@ -1,0 +1,135 @@
+[
+    {
+        "name": "Course Scrapper UBC",
+        "description": "Scrape UBC Cousres information to provide utilities such as notifying users of free spots in full courses and outputing all possible course schedules given a list of courses to take.",
+        "year": 2017,
+        "ghlink": "https://github.com/nickwu241/CourseScrapperUBC",
+        "languages": ["Python", "Javascript", "HTML", "CSS"],
+        "technologies": ["Twilio", "Firebase", "Vue", "BeautifulSoup", "lxml", "requests"],
+        "tags": []
+    },
+    {
+        "name": "Food Shake",
+        "description": "Android Application to solve “Where should we eat?” situations by randomly selecting a nearby restaurant on phone shake.",
+        "ghlink": "https://github.com/nickwu241/FoodShake",
+        "year": 2017,
+        "languages": ["Java"],
+        "technologies": ["Android", "Yelp API", "Google Maps API", "okhttp", "retrofit"],
+        "tags": []
+    },
+    {
+        "name": "Desktop Launcher",
+        "description": "Toy turret that can rotate, take photos and shoot projectiles for technology enthusiasts. Optionally controlled through the Desktop Launcher mobile application.",
+        "year": 2017,
+        "languages": ["C", "Java", "Verilog"],
+        "technologies": ["Android", "openCV", "FPGA"],
+        "tags": []
+    },
+    {
+        "name": "UBC Snowbots",
+        "description": "Autonomous robot that navigates through an obstacle course for the Intelligent Ground Vehicle Competition.",
+        "year": 2016,
+        "languages": ["C", "C++", "Python"],
+        "technologies": ["ROS"],
+        "tags": []
+    },
+    {
+        "name": "Internet Connected Baby Monitor",
+        "description": "IoT baby monitor powered by Raspberry Pi and Arduino.",
+        "year": 2016,
+        "ghlink": "https://github.com/nickwu241/ICBM-main",
+        "languages": ["Python", "C", "Javascript", "HTML", "CSS"],
+        "technologies": ["Raspberry Pi", "Arduino", "Node.js", "Weave"],
+        "tags": []
+    },
+    {
+        "name": "Arduino-Based Autonomous Robot",
+        "description": "Autonomous robot that explores the world and follow black lines that can also be controlled by a mobile device.",
+        "year": 2016,
+        "languages": ["C", "Java"],
+        "technologies": ["Android", "Arduino"],
+        "tags": []
+    },
+    {
+        "name": "Morse Code with Arduino",
+        "description": "Java application that stores samples of Yelp's Academic Datasheet in JSON and returns data given a query.",
+        "year": 2016,
+        "languages": ["C"],
+        "technologies": ["Arduino"],
+        "tags": []
+    },
+    {
+        "name": "Restaurant Database",
+        "description": "Java application that stores samples of Yelp's Academic Datasheet in JSON and returns data given a query.",
+        "year": 2016,
+        "languages": ["Java"],
+        "technologies": ["Yelp Dataset"],
+        "tags": []
+    },
+    {
+        "name": "RISC Machine",
+        "description": "Simple RISC machine with arithmetic, memory instructions and branching.",
+        "year": 2016,
+        "languages": ["Verilog"],
+        "technologies": ["FPGA"],
+        "tags": []
+    },
+    {
+        "name": "Pong",
+        "description": "Displayed via HTML5's Canvas and implemented in Javascript.",
+        "year": 2017,
+        "languages": ["Javascript"],
+        "tags": ["game"]
+    },
+    {
+        "name": "Cabin Escape",
+        "description": "3D first person escape the room puzzle game created in Unity.",
+        "year": 2017,
+        "ghlink": "https://github.com/gbvivian/CabinEscape",
+        "languages": ["C#"],
+        "technologies": ["Unity"],
+        "tags": ["game"]
+    },
+    {
+        "name": "Don't Burn Your Friends",
+        "description": "2D point-and-click adventure game created in Unity.",
+        "year": 2017,
+        "ghlink": "https://github.com/nickwu241/htn2016-game",
+        "languages": ["C#"],
+        "technologies": ["Unity"],
+        "tags": ["game"]
+    },
+    {
+        "name": "Happy Claws",
+        "description": "Virtual claw machine game created in Unity.",
+        "year": 2016,
+        "ghlink": "https://github.com/nickwu241/nwhacks2016claw",
+        "languages": ["C#"],
+        "technologies": ["Unity"],
+        "tags": ["game"]
+    },
+    {
+        "name": "Blackjack",
+        "description": "Implemented in Java using JavaFX for GUI.",
+        "year": 2016,
+        "ghlink": "https://github.com/nickwu241/blackjack-java",
+        "languages": ["Java"],
+        "technologies": ["JavaFX"],
+        "tags": ["game"]
+    },
+    {
+        "name": "Tic Tac Toe",
+        "description": "Implemented in Verilog.",
+        "year": 2015,
+        "languages": ["Verilog"],
+        "technologies": ["FPGA"],
+        "tags": ["game"]
+    },
+    {
+        "name": "Simon Game",
+        "description": "Implemented in C and emulate hardware using DAQ Library.",
+        "year": 2015,
+        "languages": ["C"],
+        "tags": ["game"]
+    }
+]
