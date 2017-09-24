@@ -78,6 +78,7 @@
         "name": "Pong",
         "description": "Displayed via HTML5's Canvas and implemented in Javascript.",
         "year": 2017,
+        "ghlink": "https://github.com/nickwu241/pong-js",
         "languages": ["Javascript"],
         "tags": ["game"]
     },

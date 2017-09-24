@@ -60,7 +60,7 @@ Organized into [projects](#projects) and [games](#games) sorted chronologically.
 
 ## Games
 ### 2017
-**Pong** - Displayed via HTML5's Canvas and implemented in Javascript.
+**[Pong]** - Displayed via HTML5's Canvas and implemented in Javascript.
 
   * languages: **_Javascript_**
 
@@ -109,6 +109,7 @@ If you have any questions, you can send me a message or reach me at nickwu@alumn
 [Course Scrapper UBC]:<https://github.com/nickwu241/CourseScrapperUBC>
 [Food Shake]:<https://github.com/nickwu241/FoodShake>
 [Internet Connected Baby Monitor]:<https://github.com/nickwu241/ICBM-main>
+[Pong]:<https://github.com/nickwu241/pong-js>
 [Cabin Escape]:<https://github.com/gbvivian/CabinEscape>
 [Don't Burn Your Friends]:<https://github.com/nickwu241/htn2016-game>
 [Happy Claws]:<https://github.com/nickwu241/nwhacks2016claw>
