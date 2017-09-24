@@ -31,8 +31,8 @@ def generate_projects():
                     tagline.append('languages: **_{:s}_**'.format(', '.join(p['languages'])))
                 if 'technologies' in p:
                     tagline.append('technologies: **_{:s}_**'.format(', '.join(p['technologies'])))
-                if tagline:
-                    print('  * ' + ', '.join(tagline))
+                for tag in tagline:
+                    print('  * ' + tag)
                 print('\n')
 
     print_projects(nongames)
