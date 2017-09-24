@@ -3,6 +3,7 @@
 import codecs
 import collections
 import json
+import sys
 
 def md_bold(message):
     return '**' + message + '**'
@@ -53,10 +54,13 @@ Organized into [projects](#projects) and [games](#games) sorted chronologically.
 
     MD_END = '## Thanks for visiting!\n\
 If you have any questions, you can send me a message or reach me at nickwu@alumni.ubc.ca.\n'
-
+    
     global name_to_links
     global nongames
     global games
+
+    # set output to UTF-8
+    sys.stdout = codecs.getwriter("utf-8")(sys.stdout.detach())
 
     def append_project(project, project_dict):
         year = project['year']

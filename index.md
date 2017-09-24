@@ -8,7 +8,7 @@ Organized into [projects](#projects) and [games](#games) sorted chronologically.
   * languages: **_Python, Javascript, HTML, CSS_**, technologies: **_Twilio, Firebase, Vue, BeautifulSoup, lxml, requests_**
 
 
-**[Food Shake]** - Android Application to solve ìWhere should we eat?î situations by randomly selecting a nearby restaurant on phone shake.
+**[Food Shake]** - Android Application to solve ‚ÄúWhere should we eat?‚Äù situations by randomly selecting a nearby restaurant on phone shake.
 
   * languages: **_Java_**, technologies: **_Android, Yelp API, Google Maps API, okhttp, retrofit_**
 
