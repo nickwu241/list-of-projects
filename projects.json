@@ -21,6 +21,7 @@
         "name": "Desktop Launcher",
         "description": "Toy turret that can rotate, take photos and shoot projectiles for technology enthusiasts. Optionally controlled through the Desktop Launcher mobile application.",
         "year": 2017,
+        "ghlink": "https://zeyadtamimi.github.io/DesktopLauncher",
         "languages": ["C", "Java", "Verilog"],
         "technologies": ["Android", "openCV", "FPGA"],
         "tags": []

@@ -15,7 +15,7 @@ Organized into [projects](#projects) and [games](#games) sorted chronologically.
   * technologies: **_Android, Yelp API, Google Maps API, okhttp, retrofit_**
 
 
-**Desktop Launcher** - Toy turret that can rotate, take photos and shoot projectiles for technology enthusiasts. Optionally controlled through the Desktop Launcher mobile application.
+**[Desktop Launcher]** - Toy turret that can rotate, take photos and shoot projectiles for technology enthusiasts. Optionally controlled through the Desktop Launcher mobile application.
 
   * languages: **_C, Java, Verilog_**
   * technologies: **_Android, openCV, FPGA_**
@@ -108,6 +108,7 @@ If you have any questions, you can send me a message or reach me at nickwu@alumn
 [//]: #
 [Course Scrapper UBC]:<https://github.com/nickwu241/CourseScrapperUBC>
 [Food Shake]:<https://github.com/nickwu241/FoodShake>
+[Desktop Launcher]:<https://zeyadtamimi.github.io/DesktopLauncher>
 [Internet Connected Baby Monitor]:<https://github.com/nickwu241/ICBM-main>
 [Pong]:<https://github.com/nickwu241/pong-js>
 [Cabin Escape]:<https://github.com/gbvivian/CabinEscape>
