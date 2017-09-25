@@ -22,7 +22,7 @@ Organized into [projects](#projects) and [games](#games) sorted chronologically.
 
 
 ### 2016
-**UBC Snowbots** - Autonomous robot that navigates through an obstacle course for the Intelligent Ground Vehicle Competition.
+**[UBC Snowbots]** - Autonomous robot that navigates through an obstacle course for the Intelligent Ground Vehicle Competition.
 
   * languages: **_C, C++, Python_**
   * technologies: **_ROS_**
@@ -109,6 +109,7 @@ If you have any questions, you can send me a message or reach me at nickwu@alumn
 [Course Scrapper UBC]:<https://github.com/nickwu241/CourseScrapperUBC>
 [Food Shake]:<https://github.com/nickwu241/FoodShake>
 [Desktop Launcher]:<https://zeyadtamimi.github.io/DesktopLauncher>
+[UBC Snowbots]:<http://snowbots.ca/>
 [Internet Connected Baby Monitor]:<https://github.com/nickwu241/ICBM-main>
 [Pong]:<https://github.com/nickwu241/pong-js>
 [Cabin Escape]:<https://github.com/gbvivian/CabinEscape>

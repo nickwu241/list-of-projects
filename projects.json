@@ -30,6 +30,7 @@
         "name": "UBC Snowbots",
         "description": "Autonomous robot that navigates through an obstacle course for the Intelligent Ground Vehicle Competition.",
         "year": 2016,
+        "ghlink": "http://snowbots.ca/",
         "languages": ["C", "C++", "Python"],
         "technologies": ["ROS"],
         "tags": []
