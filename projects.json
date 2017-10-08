@@ -1,5 +1,23 @@
 [
     {
+        "name": "Speed Passive Reading (VR)",
+        "description": "An application to make reading interesting, efficent and faster using passive reading -- displaying words one at a time in a fixed space.",
+        "year": 2017,
+        "ghlink": "https://github.com/Howard-Zhou/EduhackBread",
+        "languages": ["Javascript"],
+        "technologies": ["React Native VR", "React Native", "Daydream", "Firebase"],
+        "tags": []
+    },
+    {
+        "name": "Sleep Social",
+        "description": "iOS application to track sleep time, set up sleep goals, get rewarded for achieving goals, share your progress and see how your friends are doing.",
+        "year": 2017,
+        "ghlink": "https://github.com/nickwu241/SleepSocial",
+        "languages": ["Swift"],
+        "technologies": ["Microsoft Azure Functions"],
+        "tags": []
+    },
+    {
         "name": "Course Scrapper UBC",
         "description": "Scrape UBC Cousres information to provide utilities such as notifying users of free spots in full courses and outputing all possible course schedules given a list of courses to take.",
         "year": 2017,
@@ -113,7 +131,7 @@
     },
     {
         "name": "Blackjack",
-        "description": "Implemented in Java using JavaFX for GUI.",
+        "description": "A desktop application to play Blackjack -- implemented in Java using JavaFX for GUI.",
         "year": 2016,
         "ghlink": "https://github.com/nickwu241/blackjack-java",
         "languages": ["Java"],

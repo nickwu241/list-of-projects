@@ -3,6 +3,18 @@ My projects and their Github links.
 Organized into [projects](#projects) and [games](#games) sorted chronologically.
 
 ### 2017
+**[Speed Passive Reading (VR)]** - An application to make reading interesting, efficent and faster using passive reading -- displaying words one at a time in a fixed space.
+
+  * languages: **_Javascript_**
+  * technologies: **_React Native VR, React Native, Daydream, Firebase_**
+
+
+**[Sleep Social]** - iOS application to track sleep time, set up sleep goals, get rewarded for achieving goals, share your progress and see how your friends are doing.
+
+  * languages: **_Swift_**
+  * technologies: **_Microsoft Azure Functions_**
+
+
 **[Course Scrapper UBC]** - Scrape UBC Cousres information to provide utilities such as notifying users of free spots in full courses and outputing all possible course schedules given a list of courses to take.
 
   * languages: **_Python, Javascript, HTML, CSS_**
@@ -84,7 +96,7 @@ Organized into [projects](#projects) and [games](#games) sorted chronologically.
   * technologies: **_Unity_**
 
 
-**[Blackjack]** - Implemented in Java using JavaFX for GUI.
+**[Blackjack]** - A desktop application to play Blackjack -- implemented in Java using JavaFX for GUI.
 
   * languages: **_Java_**
   * technologies: **_JavaFX_**
@@ -106,6 +118,8 @@ Organized into [projects](#projects) and [games](#games) sorted chronologically.
 If you have any questions, you can send me a message or reach me at nickwu@alumni.ubc.ca.
 
 [//]: #
+[Speed Passive Reading (VR)]:<https://github.com/Howard-Zhou/EduhackBread>
+[Sleep Social]:<https://github.com/nickwu241/SleepSocial>
 [Course Scrapper UBC]:<https://github.com/nickwu241/CourseScrapperUBC>
 [Food Shake]:<https://github.com/nickwu241/FoodShake>
 [Desktop Launcher]:<https://zeyadtamimi.github.io/DesktopLauncher>
