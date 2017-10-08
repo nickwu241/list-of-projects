@@ -15,7 +15,7 @@ Organized into [projects](#projects) and [games](#games) sorted chronologically.
   * technologies: **_Microsoft Azure Functions_**
 
 
-**[Course Scrapper UBC]** - Scrape UBC cousres information to provide utilities such as notifying users of free spots in full courses and outputing all possible course schedules given a list of courses to take.
+**[UBC Course Schedule Creator]** - A website that offers UBC students all the possible schedules that can be made, given the courses they wish to take
 
   * languages: **_Python, Javascript, HTML, CSS_**
   * technologies: **_Twilio, Firebase, Vue, BeautifulSoup, lxml, requests_**
@@ -121,7 +121,7 @@ If you have any questions, you can send me a message or reach me at nickwu@alumn
 [//]: #
 [Speed Passive Reading (VR)]:<https://github.com/Howard-Zhou/EduhackBread>
 [Sleep Social]:<https://github.com/nickwu241/SleepSocial>
-[Course Scrapper UBC]:<https://github.com/nickwu241/CourseScrapperUBC>
+[UBC Course Schedule Creator]:<https://github.com/gbvivian/schedulecreator>
 [Food Shake]:<https://github.com/nickwu241/FoodShake>
 [Desktop Launcher]:<https://zeyadtamimi.github.io/DesktopLauncher>
 [UBC Snowbots]:<https://snowbots.ca/>

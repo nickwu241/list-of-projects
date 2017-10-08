@@ -4,6 +4,7 @@
         "description": "An application to make reading interesting, efficent and faster using passive reading -- displaying words one at a time in a fixed space.",
         "year": 2017,
         "ghlink": "https://github.com/Howard-Zhou/EduhackBread",
+        "prodlink": "https://speed-passive-reading.firebaseapp.com",
         "languages": ["Javascript"],
         "technologies": ["React Native VR", "React Native", "Daydream", "Firebase"],
         "tags": []
@@ -18,10 +19,11 @@
         "tags": []
     },
     {
-        "name": "Course Scrapper UBC",
-        "description": "Scrape UBC cousres information to provide utilities such as notifying users of free spots in full courses and outputing all possible course schedules given a list of courses to take.",
+        "name": "UBC Course Schedule Creator",
+        "description": "A website that offers UBC students all the possible schedules that can be made, given the courses they wish to take",
         "year": 2017,
-        "ghlink": "https://github.com/nickwu241/CourseScrapperUBC",
+        "ghlink": "https://github.com/gbvivian/schedulecreator",
+        "prodlink": "https://gbvivian.github.io/schedulecreator",
         "languages": ["Python", "Javascript", "HTML", "CSS"],
         "technologies": ["Twilio", "Firebase", "Vue", "BeautifulSoup", "lxml", "requests"],
         "tags": []
@@ -99,6 +101,7 @@
         "description": "Displayed via HTML5's Canvas and implemented in Javascript.",
         "year": 2017,
         "ghlink": "https://github.com/nickwu241/pong-js",
+        "prodlink": "https://nickwu241.github.io/pong-js",
         "languages": ["Javascript"],
         "tags": ["game"]
     },
