@@ -19,7 +19,7 @@
     },
     {
         "name": "Course Scrapper UBC",
-        "description": "Scrape UBC Cousres information to provide utilities such as notifying users of free spots in full courses and outputing all possible course schedules given a list of courses to take.",
+        "description": "Scrape UBC cousres information to provide utilities such as notifying users of free spots in full courses and outputing all possible course schedules given a list of courses to take.",
         "year": 2017,
         "ghlink": "https://github.com/nickwu241/CourseScrapperUBC",
         "languages": ["Python", "Javascript", "HTML", "CSS"],
@@ -48,9 +48,9 @@
         "name": "UBC Snowbots",
         "description": "Autonomous robot that navigates through an obstacle course for the Intelligent Ground Vehicle Competition.",
         "year": 2016,
-        "ghlink": "http://snowbots.ca/",
+        "ghlink": "https://snowbots.ca/",
         "languages": ["C", "C++", "Python"],
-        "technologies": ["ROS"],
+        "technologies": ["ROS", "Arduino"],
         "tags": []
     },
     {
@@ -151,6 +151,7 @@
         "description": "Implemented in C and emulate hardware using DAQ Library.",
         "year": 2015,
         "languages": ["C"],
+        "technologies": ["DAQ"],
         "tags": ["game"]
     }
 ]

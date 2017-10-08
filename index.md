@@ -15,7 +15,7 @@ Organized into [projects](#projects) and [games](#games) sorted chronologically.
   * technologies: **_Microsoft Azure Functions_**
 
 
-**[Course Scrapper UBC]** - Scrape UBC Cousres information to provide utilities such as notifying users of free spots in full courses and outputing all possible course schedules given a list of courses to take.
+**[Course Scrapper UBC]** - Scrape UBC cousres information to provide utilities such as notifying users of free spots in full courses and outputing all possible course schedules given a list of courses to take.
 
   * languages: **_Python, Javascript, HTML, CSS_**
   * technologies: **_Twilio, Firebase, Vue, BeautifulSoup, lxml, requests_**
@@ -37,7 +37,7 @@ Organized into [projects](#projects) and [games](#games) sorted chronologically.
 **[UBC Snowbots]** - Autonomous robot that navigates through an obstacle course for the Intelligent Ground Vehicle Competition.
 
   * languages: **_C, C++, Python_**
-  * technologies: **_ROS_**
+  * technologies: **_ROS, Arduino_**
 
 
 **[Internet Connected Baby Monitor]** - IoT baby monitor powered by Raspberry Pi and Arduino.
@@ -112,6 +112,7 @@ Organized into [projects](#projects) and [games](#games) sorted chronologically.
 **Simon Game** - Implemented in C and emulate hardware using DAQ Library.
 
   * languages: **_C_**
+  * technologies: **_DAQ_**
 
 
 ## Thanks for visiting!
@@ -123,7 +124,7 @@ If you have any questions, you can send me a message or reach me at nickwu@alumn
 [Course Scrapper UBC]:<https://github.com/nickwu241/CourseScrapperUBC>
 [Food Shake]:<https://github.com/nickwu241/FoodShake>
 [Desktop Launcher]:<https://zeyadtamimi.github.io/DesktopLauncher>
-[UBC Snowbots]:<http://snowbots.ca/>
+[UBC Snowbots]:<https://snowbots.ca/>
 [Internet Connected Baby Monitor]:<https://github.com/nickwu241/ICBM-main>
 [Pong]:<https://github.com/nickwu241/pong-js>
 [Cabin Escape]:<https://github.com/gbvivian/CabinEscape>
