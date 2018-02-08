@@ -1,5 +1,15 @@
 [
     {
+        "name": "UBC Course Schedule Creator",
+        "description": "A website that offers UBC students all the possible schedules that can be made, given the courses they wish to take",
+        "year": 2018,
+        "ghlink": "https://github.com/gbvivian/schedulecreator",
+        "prodlink": "https://gbvivian.github.io/schedulecreator",
+        "languages": ["Python", "Javascript", "HTML", "CSS"],
+        "technologies": ["Twilio", "Firebase", "Vue", "BeautifulSoup", "lxml", "requests"],
+        "tags": []
+    },
+    {
         "name": "Check-It",
         "description": "A real-time collaborative, sharable and reusable checklist for any platform.",
         "year": 2018,
@@ -25,16 +35,6 @@
         "ghlink": "https://github.com/nickwu241/SleepSocial",
         "languages": ["Swift"],
         "technologies": ["Microsoft Azure Functions"],
-        "tags": []
-    },
-    {
-        "name": "UBC Course Schedule Creator",
-        "description": "A website that offers UBC students all the possible schedules that can be made, given the courses they wish to take",
-        "year": 2017,
-        "ghlink": "https://github.com/gbvivian/schedulecreator",
-        "prodlink": "https://gbvivian.github.io/schedulecreator",
-        "languages": ["Python", "Javascript", "HTML", "CSS"],
-        "technologies": ["Twilio", "Firebase", "Vue", "BeautifulSoup", "lxml", "requests"],
         "tags": []
     },
     {

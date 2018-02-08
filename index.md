@@ -3,6 +3,12 @@ My projects and their Github links.
 Organized into [projects](#projects) and [games](#games) sorted chronologically.
 
 ### 2018
+**[UBC Course Schedule Creator]** - A website that offers UBC students all the possible schedules that can be made, given the courses they wish to take
+
+  * languages: **_Python, Javascript, HTML, CSS_**
+  * technologies: **_Twilio, Firebase, Vue, BeautifulSoup, lxml, requests_**
+
+
 **[Check-It]** - A real-time collaborative, sharable and reusable checklist for any platform.
 
   * languages: **_Javascript, Go_**
@@ -20,12 +26,6 @@ Organized into [projects](#projects) and [games](#games) sorted chronologically.
 
   * languages: **_Swift_**
   * technologies: **_Microsoft Azure Functions_**
-
-
-**[UBC Course Schedule Creator]** - A website that offers UBC students all the possible schedules that can be made, given the courses they wish to take
-
-  * languages: **_Python, Javascript, HTML, CSS_**
-  * technologies: **_Twilio, Firebase, Vue, BeautifulSoup, lxml, requests_**
 
 
 **[Food Shake]** - Android Application to solve “Where should we eat?” situations by randomly selecting a nearby restaurant on phone shake.
@@ -126,10 +126,10 @@ Organized into [projects](#projects) and [games](#games) sorted chronologically.
 If you have any questions, you can send me a message or reach me at nickwu@alumni.ubc.ca.
 
 [//]: #
+[UBC Course Schedule Creator]:<https://github.com/gbvivian/schedulecreator>
 [Check-It]:<https://github.com/nickwu241/checkit>
 [Speed Passive Reading (VR)]:<https://github.com/Howard-Zhou/EduhackBread>
 [Sleep Social]:<https://github.com/nickwu241/SleepSocial>
-[UBC Course Schedule Creator]:<https://github.com/gbvivian/schedulecreator>
 [Food Shake]:<https://github.com/nickwu241/FoodShake>
 [Desktop Launcher]:<https://zeyadtamimi.github.io/DesktopLauncher>
 [UBC Snowbots]:<https://snowbots.ca/>
