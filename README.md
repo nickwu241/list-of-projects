@@ -2,6 +2,13 @@
 My projects and their Github links.
 Organized into [projects](#projects) and [games](#games) sorted chronologically.
 
+### 2018
+**[Check-It]** - A real-time collaborative, sharable and reusable checklist for any platform.
+
+  * languages: **_Javascript, Go_**
+  * technologies: **_Firebase, Vue_**
+
+
 ### 2017
 **[Speed Passive Reading (VR)]** - An application to make reading interesting, efficent and faster using passive reading -- displaying words one at a time in a fixed space.
 
@@ -119,6 +126,7 @@ Organized into [projects](#projects) and [games](#games) sorted chronologically.
 If you have any questions, you can send me a message or reach me at nickwu@alumni.ubc.ca.
 
 [//]: #
+[Check-It]:<https://github.com/nickwu241/checkit>
 [Speed Passive Reading (VR)]:<https://github.com/Howard-Zhou/EduhackBread>
 [Sleep Social]:<https://github.com/nickwu241/SleepSocial>
 [UBC Course Schedule Creator]:<https://github.com/gbvivian/schedulecreator>

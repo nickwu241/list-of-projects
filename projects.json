@@ -1,5 +1,14 @@
 [
     {
+        "name": "Check-It",
+        "description": "A real-time collaborative, sharable and reusable checklist for any platform.",
+        "year": 2018,
+        "ghlink": "https://github.com/nickwu241/checkit",
+        "languages": ["Javascript", "Go"],
+        "technologies": ["Firebase", "Vue"],
+        "tags": []
+    },
+    {
         "name": "Speed Passive Reading (VR)",
         "description": "An application to make reading interesting, efficent and faster using passive reading -- displaying words one at a time in a fixed space.",
         "year": 2017,
