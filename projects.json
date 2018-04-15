@@ -6,7 +6,7 @@
         "ghlink": "https://github.com/smart-cs/scheduler",
         "prodlink": "https://smart-cs.github.io/scheduler",
         "languages": ["Python", "Go", "Javascript"],
-        "technologies": ["Twilio", "Firebase", "Vue"],
+        "technologies": ["Firebase", "Vue", "Heroku", "CircleCI", "Twilio", "Make"],
         "tags": []
     },
     {
@@ -25,7 +25,7 @@
         "ghlink": "https://github.com/nickwu241/simply-do",
         "prodlink": "https://simply-do.herokuapp.com",
         "languages": ["Go", "Javascript"],
-        "technologies": ["Firebase", "Vue"],
+        "technologies": ["Firebase", "Vue", "Heroku"],
         "tags": []
     },
     {

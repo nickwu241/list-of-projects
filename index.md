@@ -6,7 +6,7 @@ Organized into [projects](#projects) and [games](#games) sorted chronologically.
 **[UBC Course Schedule Creator]** - A website that offers UBC students all the possible schedules that can be made, given the courses they wish to take.
 
   * languages: **_Python, Go, Javascript_**
-  * technologies: **_Twilio, Firebase, Vue_**
+  * technologies: **_Firebase, Vue, Heroku, CircleCI, Twilio, Make_**
 
 
 **[Review Me]** - Automatic notifications to remind PR reviewers, multi-repo issue list, and slack notifications for unread Github notifications for better productivity.
@@ -18,7 +18,7 @@ Organized into [projects](#projects) and [games](#games) sorted chronologically.
 **[Simply Do]** - A todo list Web Application hosted on Heroku.
 
   * languages: **_Go, Javascript_**
-  * technologies: **_Firebase, Vue_**
+  * technologies: **_Firebase, Vue, Heroku_**
 
 
 **[Check It]** - A real-time collaborative, sharable and reusable checklist for any platform.
