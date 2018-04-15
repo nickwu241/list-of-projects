@@ -1,19 +1,24 @@
-"""Update projects.json then run: python generate_readme.py | tee README.md index.md"""
+#!/usr/bin/env python3
+"""Update projects.json then run: ./generate_readme.py | tee README.md index.md"""
 
 import codecs
 import collections
 import json
 import sys
 
+
 def md_bold(message):
     return '**' + message + '**'
+
 
 def md_italics(message):
     return '*' + message + '*'
 
+
 def md_link_project(name):
     global name_to_links
     return '[' + name + ']' if name in name_to_links else name
+
 
 def generate_projects():
     global nongames
@@ -28,9 +33,11 @@ def generate_projects():
                     p['description']))
                 tagline = []
                 if 'languages' in p:
-                    tagline.append('languages: **_{:s}_**'.format(', '.join(p['languages'])))
+                    tagline.append(
+                        'languages: **_{:s}_**'.format(', '.join(p['languages'])))
                 if 'technologies' in p:
-                    tagline.append('technologies: **_{:s}_**'.format(', '.join(p['technologies'])))
+                    tagline.append(
+                        'technologies: **_{:s}_**'.format(', '.join(p['technologies'])))
                 for tag in tagline:
                     print('  * ' + tag)
                 print('\n')
@@ -39,11 +46,13 @@ def generate_projects():
     print('## Games')
     print_projects(games)
 
+
 def generate_link_references():
     global name_to_links
     print('[//]: #')
     for name, link in name_to_links.items():
         print('[{:s}]:<{:s}>'.format(name, link))
+
 
 def main():
     PROJECTS_JSON_FILENAME = 'projects.json'
@@ -54,7 +63,7 @@ Organized into [projects](#projects) and [games](#games) sorted chronologically.
 
     MD_END = '## Thanks for visiting!\n\
 If you have any questions, you can send me a message or reach me at nickwu@alumni.ubc.ca.\n'
-    
+
     global name_to_links
     global nongames
     global games
@@ -85,6 +94,7 @@ If you have any questions, you can send me a message or reach me at nickwu@alumn
     generate_projects()
     print(MD_END)
     generate_link_references()
+
 
 if __name__ == '__main__':
     main()

@@ -3,13 +3,25 @@ My projects and their Github links.
 Organized into [projects](#projects) and [games](#games) sorted chronologically.
 
 ### 2018
-**[UBC Course Schedule Creator]** - A website that offers UBC students all the possible schedules that can be made, given the courses they wish to take
+**[UBC Course Schedule Creator]** - A website that offers UBC students all the possible schedules that can be made, given the courses they wish to take.
 
-  * languages: **_Python, Javascript, HTML, CSS_**
-  * technologies: **_Twilio, Firebase, Vue, BeautifulSoup, lxml, requests_**
+  * languages: **_Python, Go, Javascript_**
+  * technologies: **_Twilio, Firebase, Vue_**
 
 
-**[Check-It]** - A real-time collaborative, sharable and reusable checklist for any platform.
+**[Review Me]** - Automatic notifications to remind PR reviewers, multi-repo issue list, and slack notifications for unread Github notifications for better productivity.
+
+  * languages: **_Javascript, Python_**
+  * technologies: **_React, Flask, Github Webhooks & API, Slack API, AWS (EC2, SNS, SQS, SMS, SES, S3, DynamoDB)_**
+
+
+**[Simply Do]** - A todo list Web Application hosted on Heroku.
+
+  * languages: **_Go, Javascript_**
+  * technologies: **_Firebase, Vue_**
+
+
+**[Check It]** - A real-time collaborative, sharable and reusable checklist for any platform.
 
   * languages: **_Javascript, Go_**
   * technologies: **_Firebase, Vue_**
@@ -31,7 +43,7 @@ Organized into [projects](#projects) and [games](#games) sorted chronologically.
 **[Food Shake]** - Android Application to solve “Where should we eat?” situations by randomly selecting a nearby restaurant on phone shake.
 
   * languages: **_Java_**
-  * technologies: **_Android, Yelp API, Google Maps API, okhttp, retrofit_**
+  * technologies: **_Android, Yelp API, Google Maps API_**
 
 
 **[Desktop Launcher]** - Toy turret that can rotate, take photos and shoot projectiles for technology enthusiasts. Optionally controlled through the Desktop Launcher mobile application.
@@ -49,7 +61,7 @@ Organized into [projects](#projects) and [games](#games) sorted chronologically.
 
 **[Internet Connected Baby Monitor]** - IoT baby monitor powered by Raspberry Pi and Arduino.
 
-  * languages: **_Python, C, Javascript, HTML, CSS_**
+  * languages: **_Python, C, Javascript_**
   * technologies: **_Raspberry Pi, Arduino, Node.js, Weave_**
 
 
@@ -126,8 +138,10 @@ Organized into [projects](#projects) and [games](#games) sorted chronologically.
 If you have any questions, you can send me a message or reach me at nickwu@alumni.ubc.ca.
 
 [//]: #
-[UBC Course Schedule Creator]:<https://github.com/gbvivian/schedulecreator>
-[Check-It]:<https://github.com/nickwu241/checkit>
+[UBC Course Schedule Creator]:<https://github.com/smart-cs/scheduler>
+[Review Me]:<https://github.com/nickwu241/review-me>
+[Simply Do]:<https://github.com/nickwu241/simply-do>
+[Check It]:<https://github.com/nickwu241/checkit>
 [Speed Passive Reading (VR)]:<https://github.com/Howard-Zhou/EduhackBread>
 [Sleep Social]:<https://github.com/nickwu241/SleepSocial>
 [Food Shake]:<https://github.com/nickwu241/FoodShake>

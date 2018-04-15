@@ -1,16 +1,35 @@
 [
     {
         "name": "UBC Course Schedule Creator",
-        "description": "A website that offers UBC students all the possible schedules that can be made, given the courses they wish to take",
+        "description": "A website that offers UBC students all the possible schedules that can be made, given the courses they wish to take.",
         "year": 2018,
-        "ghlink": "https://github.com/gbvivian/schedulecreator",
-        "prodlink": "https://gbvivian.github.io/schedulecreator",
-        "languages": ["Python", "Javascript", "HTML", "CSS"],
-        "technologies": ["Twilio", "Firebase", "Vue", "BeautifulSoup", "lxml", "requests"],
+        "ghlink": "https://github.com/smart-cs/scheduler",
+        "prodlink": "https://smart-cs.github.io/scheduler",
+        "languages": ["Python", "Go", "Javascript"],
+        "technologies": ["Twilio", "Firebase", "Vue"],
         "tags": []
     },
     {
-        "name": "Check-It",
+        "name": "Review Me",
+        "description": "Automatic notifications to remind PR reviewers, multi-repo issue list, and slack notifications for unread Github notifications for better productivity.",
+        "year": 2018,
+        "ghlink": "https://github.com/nickwu241/review-me",
+        "languages": ["Javascript", "Python"],
+        "technologies": ["React", "Flask", "Github Webhooks & API", "Slack API", "AWS (EC2, SNS, SQS, SMS, SES, S3, DynamoDB)"],
+        "tags": []
+    },
+    {
+        "name": "Simply Do",
+        "description": "A todo list Web Application hosted on Heroku.",
+        "year": 2018,
+        "ghlink": "https://github.com/nickwu241/simply-do",
+        "prodlink": "https://simply-do.herokuapp.com",
+        "languages": ["Go", "Javascript"],
+        "technologies": ["Firebase", "Vue"],
+        "tags": []
+    },
+    {
+        "name": "Check It",
         "description": "A real-time collaborative, sharable and reusable checklist for any platform.",
         "year": 2018,
         "ghlink": "https://github.com/nickwu241/checkit",
@@ -43,7 +62,7 @@
         "ghlink": "https://github.com/nickwu241/FoodShake",
         "year": 2017,
         "languages": ["Java"],
-        "technologies": ["Android", "Yelp API", "Google Maps API", "okhttp", "retrofit"],
+        "technologies": ["Android", "Yelp API", "Google Maps API"],
         "tags": []
     },
     {
@@ -69,7 +88,7 @@
         "description": "IoT baby monitor powered by Raspberry Pi and Arduino.",
         "year": 2016,
         "ghlink": "https://github.com/nickwu241/ICBM-main",
-        "languages": ["Python", "C", "Javascript", "HTML", "CSS"],
+        "languages": ["Python", "C", "Javascript"],
         "technologies": ["Raspberry Pi", "Arduino", "Node.js", "Weave"],
         "tags": []
     },
