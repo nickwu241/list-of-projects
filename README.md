@@ -9,13 +9,13 @@ Organized into [projects](#projects) and [games](#games) sorted chronologically.
   * technologies: **_Firebase, Vue, Heroku, CircleCI, Twilio, Make_**
 
 
-**[Spotty]** - Do you have parking space you never use? Spotty can help advertise this space for you and help other drivers who are looking for parking. Using IoT, Spotty can use cameras and sensors to provide automated security, and status of your parking space ensuring that your property is safe.        
+**[Spotty: 1st Place @ RUHacks2018]** - Do you have parking space you never use? Spotty can help advertise this space for you and help other drivers who are looking for parking. Using IoT, Spotty can use cameras and sensors to provide automated security, and status of your parking space ensuring that your property is safe.        
 
   * languages: **_Javascript_**
   * technologies: **_React Native, Node.js, Firebase, Google Cloud Storage, Goole Cloud Vision API, Node-RED, Hardware (Raspberry Pi, Orange Pi Zero, Amazon Alexa, cameras, ultrasonic sensors, temperature sensors)_**
 
 
-**[Review Me]** - Automatic notifications to remind PR reviewers, multi-repo issue list, and slack notifications for unread Github notifications for better productivity.
+**[Review Me: Winner of AWS Prize @ Hack The Valley 2018]** - Automatic notifications to remind PR reviewers, multi-repo issue list, and slack notifications for unread Github notifications for better productivity.
 
   * languages: **_Javascript, Python_**
   * technologies: **_React, Flask, Github Webhooks & API, Slack API, AWS (EC2, SNS, SQS, SMS, SES, S3, DynamoDB)_**
@@ -145,8 +145,8 @@ If you have any questions, you can send me a message or reach me at nickwu@alumn
 
 [//]: #
 [UBC Course Schedule Creator]:<https://github.com/smart-cs/scheduler>
-[Spotty]:<https://github.com/nickwu241/spotty>
-[Review Me]:<https://github.com/nickwu241/review-me>
+[Spotty: 1st Place @ RUHacks2018]:<https://github.com/nickwu241/spotty>
+[Review Me: Winner of AWS Prize @ Hack The Valley 2018]:<https://github.com/nickwu241/review-me>
 [Simply Do]:<https://github.com/nickwu241/simply-do>
 [Check It]:<https://github.com/nickwu241/checkit>
 [Speed Passive Reading (VR)]:<https://github.com/Howard-Zhou/EduhackBread>
