@@ -12,7 +12,7 @@ Organized into [projects](#projects) and [games](#games) sorted chronologically.
 **[Spotty]** - Do you have parking space you never use? Spotty can help advertise this space for you and help other drivers who are looking for parking. Using IoT, Spotty can use cameras and sensors to provide automated security, and status of your parking space ensuring that your property is safe.        
 
   * languages: **_Javascript_**
-  * technologies: **_React Native, Node.js, Firebase, Google Cloud Storage, Goole Cloud Vision API, Node-RED, Hardware (Raspberry Pi, Orange Pi Zero, Amazon Alexa, cameras, ultrasonic sensors, temperature sensors_**
+  * technologies: **_React Native, Node.js, Firebase, Google Cloud Storage, Goole Cloud Vision API, Node-RED, Hardware (Raspberry Pi, Orange Pi Zero, Amazon Alexa, cameras, ultrasonic sensors, temperature sensors)_**
 
 
 **[Review Me]** - Automatic notifications to remind PR reviewers, multi-repo issue list, and slack notifications for unread Github notifications for better productivity.

@@ -15,7 +15,7 @@
         "year": 2018,
         "ghlink": "https://github.com/nickwu241/spotty",
         "languages": ["Javascript"],
-        "technologies": ["React Native", "Node.js", "Firebase", "Google Cloud Storage", "Goole Cloud Vision API", "Node-RED", "Hardware (Raspberry Pi, Orange Pi Zero, Amazon Alexa, cameras, ultrasonic sensors, temperature sensors"],
+        "technologies": ["React Native", "Node.js", "Firebase", "Google Cloud Storage", "Goole Cloud Vision API", "Node-RED", "Hardware (Raspberry Pi, Orange Pi Zero, Amazon Alexa, cameras, ultrasonic sensors, temperature sensors)"],
         "tags": []
     },
     {
