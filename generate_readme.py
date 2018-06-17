@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Update projects.json then run: ./generate_readme.py | tee README.md index.md"""
+"""Update projects.json then run: ./generate_readme.py > README.md"""
 
 import codecs
 import collections
@@ -20,7 +20,7 @@ def md_link_project(name):
     return '[' + name + ']' if name in name_to_links else name
 
 
-def generate_projects():
+def print_generated_projects():
     global nongames
     global games
 
@@ -47,7 +47,7 @@ def generate_projects():
     print_projects(games)
 
 
-def generate_link_references():
+def print_generated_link_references():
     global name_to_links
     print('[//]: #')
     for name, link in name_to_links.items():
@@ -57,12 +57,14 @@ def generate_link_references():
 def main():
     PROJECTS_JSON_FILENAME = 'projects.json'
 
-    MD_BEGIN = '# **Projects**\n\
-My projects and their Github links.\n\
-Organized into [projects](#projects) and [games](#games) sorted chronologically.\n'
+    MD_BEGIN = """# **Projects**
+My projects and their Github links.
+Organized into [projects](#projects) and [games](#games) sorted chronologically.
+"""
 
-    MD_END = '## Thanks for visiting!\n\
-If you have any questions, you can send me a message or reach me at nickwu@alumni.ubc.ca.\n'
+    MD_END = """## Thanks for visiting!
+If you have any questions, you can send me a message or reach me at nickwu@alumni.ubc.ca.
+"""
 
     global name_to_links
     global nongames
@@ -91,9 +93,9 @@ If you have any questions, you can send me a message or reach me at nickwu@alumn
         append_project(p, games if 'game' in p['tags'] else nongames)
 
     print(MD_BEGIN)
-    generate_projects()
+    print_generated_projects()
     print(MD_END)
-    generate_link_references()
+    print_generated_link_references()
 
 
 if __name__ == '__main__':
